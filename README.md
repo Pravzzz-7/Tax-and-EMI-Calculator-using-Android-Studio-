@@ -14,3 +14,8 @@ Income Tax and EMI Calculator is an android based application, and enables the u
 - Android Mobile / Android Emulator-Pixel 3a API 27
 
 
+#### "Suggestions and project improvement ideas are welcomed!"
+
+#### "PROJECT BY: L PRAVEENA <3"
+
+<bold>Thanks a lot</bold><br/>
